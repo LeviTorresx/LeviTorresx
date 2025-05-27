@@ -1,6 +1,6 @@
 ## 👨‍💻 Levi Dev
 
-Desarrollador frontend-junior en desarrollo de sitios y aplicaciones web usando tecnologías modernas.
+Desarrollador frontend-junior con conocimiento en el desarrollo de sitios y aplicaciones web usando tecnologías modernas.
 
 ## Tecnologías que manejo
 
@@ -16,6 +16,6 @@ Desarrollador frontend-junior en desarrollo de sitios y aplicaciones web usando 
 - Tailwind CSS
 - Redux Toolkit
 
-###Objetivo
+## Objetivo
 
 Seguir aprendiendo y aportar en proyectos reales con código limpio, componentes reutilizables y buenas prácticas.
