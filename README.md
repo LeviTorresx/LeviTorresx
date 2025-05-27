@@ -2,7 +2,7 @@
 
 Desarrollador frontend-junior en desarrollo de sitios y aplicaciones web usando tecnologías modernas.
 
-###Tecnologías que manejo
+## Tecnologías que manejo
 
 - **HTML5**
 - **CSS3**
