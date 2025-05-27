@@ -1,6 +1,6 @@
 ## 👨‍💻 Levi Dev
 
-Desarrollador frontend-junior con conocimiento en el desarrollo de sitios y aplicaciones web usando tecnologías modernas.
+Desarrollador con conocimiento en el desarrollo de sitios y aplicaciones web usando tecnologías modernas.
 
 ## Tecnologías que manejo
 
